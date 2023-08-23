@@ -1,0 +1,10 @@
+#band_description{
+    color: blue;
+    font-size: 50px;
+}
+.medium-text{
+    color: blueviolet;
+    font-size: 25px;
+    font-weight: 700;
+    font-style: italic;
+}
